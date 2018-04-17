@@ -1,65 +1,22 @@
-<h1>react 源码学习</h1>
-<ul>
-  <li><a href="#1">目录结构</a></li>
-  <li><a href="#2">Virtual DOM</a></li>
-</ul>
-
-<div id="1">目录结构</div>
+# react 源码学习--（看书第一遍）
+## 目录
+- [项目目录结构](#项目目录结构)
+- [Virtual DOM](#Virtual DOM)
 
 
 
-<div id="2">
-  <pre>
-   type ReactNode = ReactElement | ReactFragment | ReactText;
-  type ReactElement = ReactComponentElement | ReactDOMElement;
-  type ReactDOMElement = {
-  type : string,
-  props : {
-   children : ReactNodeList,
-   className : string,
-   etc.
-  },
-   key : string | boolean | number | null,
-   ref : string | null
-  };
-  type ReactComponentElement<TProps> = {
-   type : ReactClass<TProps>,
-   props : TProps,
-   key : string | boolean | number | null,
-   ref : string | null
-  };
-  type ReactFragment = Array<ReactNode | ReactEmpty>;
-  type ReactNodeList = ReactNode | ReactEmpty;
-  type ReactText = string | number;
-  type ReactEmpty = null | undefined | boolean;
-  </pre>
-</div>
+## 项目目录结构
+    《深入react技术栈》这里有，reconciler 乃核心代码部分
 
+For example:
 
+##### `People function`
 
+```js
+ function(){}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+## Virtual DOM
 
 
 
