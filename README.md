@@ -22,7 +22,21 @@ For example:
 
 
 ## VirtualDOM
-    A-->B-->A : 不重新渲染
+
+    1,A-->B-->A : 不重新渲染
+    
+    2,最初基本形状:
+    
+    ```js
+        {
+          tagName: 'div',   // 标签名
+          properties: {  // 属性
+           style: {}  // 样式
+          },
+          children: [], // 子节点
+          key: 1   // 唯一标识
+       }
+    ```
 
 
 
