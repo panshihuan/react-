@@ -17,7 +17,7 @@ For example:
 
 ```
 ## Virtual DOM
-
+ A-B-A === A-A : 不重新渲染
 
 
 
