@@ -1,7 +1,7 @@
 # react 源码学习--（看书第一遍）
 ## 目录
 - [项目目录结构](#项目目录结构)
-- [Virtual DOM](#Virtual DOM)
+- [VirtualDOM](#VirtualDOM)
 
 
 
@@ -16,7 +16,7 @@ For example:
  function(){}
 
 ```
-## Virtual DOM
+## VirtualDOM
  A-B-A === A-A : 不重新渲染
 
 
