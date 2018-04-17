@@ -25,7 +25,7 @@ For example:
 
     1,A-->B-->A : 不重新渲染
     
-    2, ##### `People function`最初基本形状:
+    2, 最初形状:
     
     ```js
       {
