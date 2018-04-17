@@ -3,7 +3,7 @@
 - [项目目录结构](#项目目录结构)
 - [VirtualDOM](#VirtualDOM)
 
-- [ReactCreateElement](#ReactCreateElement)
+- [reactCreateElement](#reactCreateElement)
 
 
 
@@ -21,5 +21,5 @@ For example:
 ## VirtualDOM
  A-B-A === A-A : 不重新渲染
 
-## ReactCreateElement
+## reactCreateElement
 
