@@ -1,9 +1,9 @@
 # react学习---源码学习（看书第一遍）
 ## 目录
 - [项目目录结构](#项目目录结构)
-- [VirtualDOM虚拟dom](#VirtualDOM虚拟dom)
+- [VirtualDOM](#VirtualDOM)
 
-- [reactCreateElement方法实现](#reactCreateElement方法实现)
+- [ReactCreateElement](#ReactCreateElement)
 
 
 
@@ -18,8 +18,14 @@ For example:
  function(){}
 
 ```
-## VirtualDOM虚拟dom
-      A-B-A === A-A : 不重新渲染
 
-## reactCreateElement方法实现
+
+
+## VirtualDOM
+    A-->B-->A : 不重新渲染
+
+
+
+
+## ReactCreateElement
       1111
