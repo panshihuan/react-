@@ -3,8 +3,8 @@
 - [项目目录结构](#项目目录结构)
 - [VirtualDOM](#VirtualDOM)
 <ul>
- <li><a href="#项目目录结构">项目目录结构</a></li>
- <li><a href="#VirtualDOM">VirtualDOM</a></li>
+ <li><a href="#1">项目目录结构</a></li>
+ <li><a href="#2">VirtualDOM</a></li>
 </ul>
 
 - [ReactCreateElement](#ReactCreateElement)
@@ -12,6 +12,7 @@
 
 
 ## 项目目录结构
+<h2 id="1">项目目录结构</h2>
     《深入react技术栈》这里有，reconciler 乃核心代码部分
 
 For example:
@@ -25,7 +26,7 @@ For example:
 
 
 
-## VirtualDOM
+<h2 id="2">VirtualDOM</h2>
 
     1,A-->B-->A : 不重新渲染
     
