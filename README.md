@@ -2,6 +2,10 @@
 ## 目录
 - [项目目录结构](#项目目录结构)
 - [VirtualDOM](#VirtualDOM)
+<ul>
+ <li><a href="#项目目录结构">项目目录结构</a></li>
+ <li><a href="#VirtualDOM">VirtualDOM</a></li>
+</ul>
 
 - [ReactCreateElement](#ReactCreateElement)
 
