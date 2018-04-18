@@ -1,7 +1,5 @@
 # react学习---源码学习（看书第一遍）
 ## 目录
-- [项目目录结构](#项目目录结构)
-- [VirtualDOM](#VirtualDOM)
 <ul>
  <li><a href="#1">项目目录结构</a></li>
  <li><a href="#2">VirtualDOM</a></li>
@@ -24,8 +22,6 @@ For example:
 
 ```
 
-
-
 <h2 id="2">VirtualDOM</h2>
 
     1,A-->B-->A : 不重新渲染
@@ -45,7 +41,5 @@ For example:
     ```
 
 
-
-
-## ReactCreateElement
+<h2 id="3"></h2>
       1111
