@@ -3,10 +3,8 @@
 <ul>
  <li><a href="#1">项目目录结构</a></li>
  <li><a href="#2">VirtualDOM</a></li>
+ <li><a href="#3">生命周期</a></li>
 </ul>
-
-- [ReactCreateElement](#ReactCreateElement)
-
 
 
 ## 项目目录结构
@@ -41,5 +39,7 @@ For example:
     ```
 
 
-<h2 id="3"></h2>
-      1111
+<h2 id="3">生命周期</h2>
+      <h3>流程图</h3>
+      
+      
